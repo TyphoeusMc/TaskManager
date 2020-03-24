@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/a.JPG</file>
+        <file>res/ubuntu_black-orange_hex.png</file>
+    </qresource>
+</RCC>
